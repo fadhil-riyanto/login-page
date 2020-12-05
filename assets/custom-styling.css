@@ -47,4 +47,9 @@ body{
     -ms-user-select: none;
     user-select: none;
 }
+@media(min-width: 768px){
+    .bd-placeholder-img-l{
+        font-size: 3.5rem;
+    }
+}
 

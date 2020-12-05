@@ -14,7 +14,10 @@
     <link rel="stylesheet" href="assets\custom-styling.css">
 
 </head>
-<body>
-   
+<body class='text-center'>
+   <form class='form-signin'action="">
+       <img src="assets\fadhil-circle.png" alt="image fadhil gambar" srcset="">
+       <h1 class='h3 mb-3 font-weight-normal'>Please Sign in</h1>
+   </form>
 </body>
 </html>
